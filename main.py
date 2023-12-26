@@ -6,7 +6,7 @@ import button
 import time
 pygame.init()
 
-FPS = 120
+FPS = 60
 FramePerSec = pygame.time.Clock()
  
 # Predefined some colors
